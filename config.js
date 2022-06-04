@@ -1,11 +1,9 @@
 const CONFIG = {
     titleWeb: "Tỏ tình crussshhhh",
-    introTitle: 'Trần Ngọc Phương Vy',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
+    introTitle: 'chào cô gái xinh đẹp',
+    introDesc: `Tớ có điều này muốn hỏi cậu, nhớ phải trả lời thật lòng nhaaa'
+    
+    btnIntro: 'OK',
     title: 'Phải chăng Anh đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng Anh đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Thích lắm <33',
